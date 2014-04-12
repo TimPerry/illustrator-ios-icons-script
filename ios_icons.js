@@ -31,6 +31,6 @@ if (document && folder) {
 	saveDocumentAsPng(114);
 
 	// ios7 app icon
-	saveDocumentAsPng(29);
+	saveDocumentAsPng(120);
 
 }
